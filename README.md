@@ -54,4 +54,18 @@ Complaint tracking platform to track all Investment Management complaints adheri
 •	To resolve most complaints within a 4 week period
 •	To ensure that Customer Service Team can access this application from fPod
 
+# Obligations
+Optimize existing monitoring practices for contractual obligations and improve the governance model and accountability around the management of those obligations. The project aims to mitigate the risks of not meeting client obligations and deliverables, and ensure that such obligations are understood and monitored in an auditable and systematic manner.
+•	Facilitate the capture and maintenance of obligations defined by Separately Managed Account (SMA) documents by the Obligation Management (OBM) team, including definition of parties responsible for monitoring and taking action in order to meet the criteria of the obligation
+•	Provide a means of acceptance/rejection for those allocated responsibility relating to an obligation and a means of viewing accepted responsibility
+•	Email notification of parties responsible for taking action to satisfy an obligation.
+•	Provide a means for triggering events which require obligation satisfaction. Events should be triggered either manually or on a periodic schedule
+•	Provide a means of dealing with events centrally and escalation in case of lapsed responsibility
+•	Ability to generate report for the governing body (OBM team) that provide insights into the status of the obligations
+1	Anticipated Benefits
+•	Central, consistent tracking of obligations
+•	Thorough tracking of responsibilities and obligation ownership
+•	Accurate tracking of action in response to events
+•	Evidence of obligation satisfaction
+
 
